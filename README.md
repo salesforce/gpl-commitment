@@ -14,6 +14,6 @@ Salesforce may modify this Commitment by publishing a new edition on this page o
 
 ‘Covered License’ means the GNU General Public License, version 2 (GPLv2), the GNU Lesser General Public License, version 2.1 (LGPLv2.1), or the GNU Library General Public License, version 2 (LGPLv2), all as published by the Free Software Foundation.
 
-Defensive Action’ means a legal proceeding or claim that Salesforce brings against you in response to a prior proceeding or claim initiated by you or your affiliate.
+‘Defensive Action’ means a legal proceeding or claim that Salesforce brings against you in response to a prior proceeding or claim initiated by you or your affiliate.
 
 ‘Salesforce’ means Salesforce.com, Inc. and its subsidiaries.
